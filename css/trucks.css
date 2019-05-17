@@ -30,11 +30,12 @@ li a:hover {
 .indication{
   text-align: center;
   font-size: 35px;
-  padding: 350px;
+  padding: 110px;
 }
 #truck{
   background-image:url("../images/contact.jpg");
   color: greenyellow;
+  background-size: cover;
   /* padding-top: 400px */
 }
 @media screen and (max-width: 800px) {
