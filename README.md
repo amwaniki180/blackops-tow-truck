@@ -1,12 +1,12 @@
 # blackops-tow-truck
-#### This application is a pig dice game that allows players to roll the dice as many times as they feel lucky and awards points to the players as long as they don't get a 1 on the dice throw.
+#### This is a Tow Truck Finder site for finding tow trucks near you incase of an accident and no help is around.
 #### By Francis Wambugu Mukuha, Jasper Migiro, Anthony Mwaniki.
 ## Author information
 The Authors are full stack development students in Moringa School.
 ## link to the live site
 https://francismuk.github.io/pig-dice/index.html
 ## Description
-This application is a pig dice game which is to be played by two players. The game allows the players to roll the dice as many times as they like so as to earn points.The first player to attain 100 points is the winner. If a player gets a 1 in the dice then the points are taken away and its the other player's turn.
+Finding tow rucks incase of an emergency accident has no been an easy task and we ade this to make it easier for evryone to access a tow truck near you incase you are in need of help. In some other cases your car may have been out of fuel in certain deserted places,that's where we come to your help. With just click of a button you will get help in a matter of minutes and your problem is taken care of.
 ## Setup/Installation Requirement
 * Any web browser
 * Stable internet connection
@@ -22,14 +22,14 @@ All known issues/bugs in this project have been fully resolved.
 ## BDD
 |Input                            | Output                                                                  |
 |:-------------------------------:|------------------------------------------------------------------------:|
-|Player clicks on roll button     | Both dice are rolled and sum added if 1 is not among the numbers on dice|
-|Player presses hold button       | It is the other player's turn                                           |
-|Player presses reset button      | Game is reset and results start from 0                                  |
+|User clicks on order a truck type| They are directed to a driver for the truck                             |
+|User clicks on driver            | They are given nearest driver details and his location                  |
+|User orders for a driver         | They are given the service and pay                               |
 
  
 
 ## Technologies Used
-In this app I have used HTML to make it and CSS to style the app and java script to make it more user friendly.
+In this app I have used HTML to make it and CSS to style the app and Javascript to make it more user friendly .
 ## Support and contact details
 If you find any issues or bugs that have not been detected please contact me the app creator through email {mukuha58@gmail.com} Any contributions on this app are fully welcome and encouraged.
 ### License
